@@ -1,16 +1,14 @@
 # quotes_pandas_analysis
-# Quotes Dataset Analysis using Pandas
-
-This project analyzes a quotes dataset using Python Pandas in Google Colab.
-
-## What I did:
-- Loaded and cleaned data
-- Found unique authors and missing values
-- Filtered and grouped data by author
+## What I Did
+- Loaded CSV data using pandas
+- Checked data info and missing values
+- Found unique authors and quote counts
+- Filtered data for specific authors
 - Created bar chart visualization
-- Saved results to CSV
+- Saved output to CSV
 
-## Files:
-- quotes_dataset.csv - Original data
-- author_counts.csv - Analysis output
-- Untitled0.ipynb - Colab notebook
+## Tools Used
+Python, Pandas, Matplotlib, Google Colab
+
+## Output
+![Author Chart](author_chart.png)
